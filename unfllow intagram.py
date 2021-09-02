@@ -60,7 +60,7 @@ def unFollow(number: int):
     nu = 1
 
     #here you should replace your instagram username and password to get to work
-    #remember that your 2nd step verification should be off if you want this code is working
+    #remember that your 2nd step verification should be off if you want this code to work
 
     api = InstagramAPI('your instagram username', 'your instagram password')
 
